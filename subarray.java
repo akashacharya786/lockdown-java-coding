@@ -5,7 +5,8 @@ public class Main {
 	
 	public static void cntArray(int A[], int N) 
 	{ 
-		// initialize result with 0 
+		
+	
 		int result = 0; 
 
 		for (int i = 0; i < N; i++) { 
